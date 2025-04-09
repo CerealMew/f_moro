@@ -1,6 +1,6 @@
 # Rise of the Robot
 
-## Group F
+
 - [Rise of the Robot](#rise-of-the-robot)
   - [Group F](#group-f)
   - [Overview](#overview)
@@ -8,7 +8,10 @@
   - [Sim Parameters](#sim-parameters)
   - [Requirements](#requirements)
     - [Basics](#basics)
-
+    - [Advanced](#advanced)
+    - [Nice to have](#nice-to-have)
+  
+## Group F
 **Contributors**:
 - Erich Reichl, ic19b071, local planning
 - Matthias Wimmer, mr24b007, global planning
@@ -34,3 +37,7 @@
   - [x] B 2.2: local planning 
 - [ ] B 3: get to know your specific topics
 - [ ] B 4: Implementation
+
+### Advanced
+
+### Nice to have 
